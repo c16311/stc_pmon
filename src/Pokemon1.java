@@ -5,7 +5,7 @@
  */
 
 /**
- *
+ *　GITを有効にしてプルしてまーじでプッシュ！！
  * @author c16311
  */
 public class Pokemon1 {
